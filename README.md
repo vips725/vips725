@@ -84,9 +84,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vips725&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vips725&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=vips725&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -106,7 +106,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vips725&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -116,7 +116,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vips725&theme=tokyo-night"/>
 
 </p>
 
@@ -136,15 +136,15 @@
 
 <p align="center">
 
-<a href="https://leetcode.com/YOUR_USERNAME">
+<a href="https://leetcode.com/vips725">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="https://codeforces.com/profile/YOUR_USERNAME">
+<a href="https://codeforces.com/profile/vips725">
 <img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces"/>
 </a>
 
-<a href="https://www.codechef.com/users/YOUR_USERNAME">
+<a href="https://www.codechef.com/users/vips725">
 <img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge"/>
 </a>
 
