@@ -1,137 +1,59 @@
-<h1 align="center">Hi 👋, I'm Vipul Shah</h1>
+<div align="center"> <h1>VIPUL SHAH</h1> <h3>Full Stack Developer • AI Engineer • Building products people love</h3> <a href="https://github.com/vips725"> <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;React+Native+%2B+Expo;AI+%2F+ML+Engineer;Building+GymForge;Turning+ideas+into+products;&font=Fira%20Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&size=22&pause=1200" alt="Typing SVG" /> </a> <br/> <!-- Social links: fill in the ones that apply -->
 
-<h3 align="center">
-🚀 Full Stack Developer | MERN Stack | Problem Solver | AI Enthusiast
-</h3>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a> <a href="mailto:YOUR-EMAIL@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="30"/></a> <a href="https://github.com/vips725"><img src="https://skillicons.dev/icons?i=github" height="30"/></a>
 
-<p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450"/>
-</p>
+</div> <br/>
+About Me
 
----
+I'm a Full Stack Developer currently interning at Skylent Global, building GymForge, a React Native fitness app, under the guidance of the CTO. I like working across the stack — mobile apps, backend infra, and AI systems — and I've recently been diving deeper into applied ML for real-world coordination and disaster-response systems.
 
-# 💫 About Me
+🔭 Currently building GymForge — a fitness app with Expo, NativeWind, and TypeScript
+🧠 Recently built an AI-powered disaster response platform (SAJAG AI) with team MetriX
+🏫 Also shipped an LMS platform (Skylent Global) with dual auth, course builder, and analytics
+🌱 Exploring RAG pipelines, LangChain, and cinematic tooling like DaVinci Resolve
+📍 Based in Nepal
+<br/>
+Tech Stack
+<div align="center"> <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,expo,tailwind,docker,redis,nginx,python,fastapi,git,figma&perline=7" /> </div> <br/>
+Featured Projects
+<table> <tr> <td width="50%">
+🏋️ GymForge
 
-- 💻 Full Stack MERN Developer
-- 🚀 Building scalable web applications
-- 🤖 Interested in AI + Full Stack Development
-- 🧠 Solving Data Structures & Algorithms
-- 🌱 Currently learning System Design & DevOps
-- ⚡ I love turning ideas into products.
+Mobile fitness app built as my primary internship deliverable at Skylent Global.
 
----
+Stack: React Native · Expo · expo-router · NativeWind v5 · Tailwind CSS v4 · TypeScript · Docker · Redis · Nginx
 
-# 🌐 Connect with Me
+Repo →
 
-<p align="left">
-<a href="https://github.com/vips725">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+</td> <td width="50%">
+🚨 SAJAG AI — Disaster Response Platform
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+Built for Hack4Safety with team MetriX. AI-powered coordination platform for Nepal Police & APF, with 5 ML models (flood, landslide, accident, crowd density, rescue priority), a FastAPI engine with WebSocket broadcasting, GIS heatmaps, and a YOLOv8 crowd analyzer.
 
-<a href="mailto:YOURMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-</p>
+Stack: Python · FastAPI · RandomForest · XGBoost · YOLOv8 · WebSockets
 
----
+</td> </tr> <tr> <td width="50%">
+🎓 Skylent Global LMS
 
-# 🚀 Tech Stack
+Full LMS platform with dual authentication (admin/student), a course builder, an interactive course player with lesson tracking, assignment grading workflows, and analytics dashboards.
 
-## Languages
+Live Reference →
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts"/>
-</p>
+</td> <td width="50%">
+🤖 Nepal Police Disaster Intelligence AI
 
-## Frontend
+RAG chatbot built on top of the SAJAG AI platform for natural-language querying of disaster response knowledge.
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap"/>
-</p>
+Stack: LangChain · Pinecone · HuggingFace Embeddings · Groq (LLaMA 3.1)
 
-## Backend
+</td> </tr> </table> <br/>
+GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vips725&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vips725&theme=tokyonight&hide_border=true" height="165"/> </div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=vips725&theme=tokyo-night&hide_border=true" /> </div> <br/>
+Coding Profiles
+<!-- Add your real handles below and these buttons will work --> <p align="center"> <a href="https://leetcode.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange"/></a> <a href="https://codeforces.com/profile/YOUR-HANDLE"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a> </p> <br/> <div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres"/>
-</p>
+"Turning ideas into products."
 
-## Tools
+Show Image
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel"/>
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=vips725&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=vips725&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=vips725&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=vips725&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=vips725&theme=tokyo-night"/>
-
-</p>
-
-# 💻 Coding Profiles
-
-<p>
-
-<a href="https://leetcode.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://www.codechef.com/users/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/>
-</a>
-
-<a href="https://codeforces.com/profile/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/>
-</a>
-
-</p>
-
----
-
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+</div>
