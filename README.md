@@ -112,24 +112,6 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=vips725&them
 
 </p>
 
----
-
-# 🐍 Contribution Snake
-
-> **Important:** This won't appear automatically.
-
-You need to create a GitHub Action to generate it.
-
-After setting it up, use:
-
-```md
-<p align="center">
-<img src="https://raw.githubusercontent.com/vips725/vips725/output/github-contribution-grid-snake.svg"/>
-</p>
-```
-
----
-
 # 💻 Coding Profiles
 
 <p>
