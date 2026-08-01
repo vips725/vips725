@@ -19,7 +19,7 @@
 - 🤖 Interested in AI + Full Stack Development  
 - 🧠 Solving Data Structures & Algorithms  
 - 🌱 Currently learning **System Design & DevOps**  
-- ⚡ Fun fact: I love turning ideas into products.  
+- ⚡ Fun fact: I love turning ideas into products.                            https://camo.githubusercontent.com/819f791104e87de0776aa392ea6d3d2d7564984a6a65f0205ed5e2c76666066c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a56696b377042747539644e532f67697068792e676966
 
 ---
 
