@@ -10,6 +10,10 @@
 
 <br/>
 
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="480"/>
+
+<br/>
+
 <!-- Social links: fill in LinkedIn if you want it -->
 <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
 <a href="mailto:vipsviper2@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30"/></a>
